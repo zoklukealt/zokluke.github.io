@@ -20,5 +20,16 @@ body * {
   white-space: nowrap;
   text-align: center;
 }
+/*
+p {
+    animation: funny 6s infinite;
+    margin-bottom:5vh;
+}
 
+@keyframes funny {
+  0% {transform: rotateX(0deg);}
+  80% {transform: rotateX(360deg);}
+  100% {transform: rotateX(360deg);}
+}
+*\
 
